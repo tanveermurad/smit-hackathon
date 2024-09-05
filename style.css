@@ -1,0 +1,39 @@
+.links{display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+position: relative;
+justify-content: flex-start;
+text-align: justify;
+width: Hug (811px)px;
+height: Hug (68px)px;
+gap: 40px;
+opacity: 0px;
+
+    
+}
+.container{
+
+    padding: 5%;
+margin-right: 40%;
+width: Fixed (1,440px)px;
+height: Hug (515px)px;
+padding: 0px 100px 0px 100px;
+gap: 0px;
+justify-content: space-between;
+opacity: 0px;}
+
+
+#hedaing{
+    margin-top: 200px;
+    gap: 35px;
+    opacity: 0px;
+    
+  }
+h1{color: black;}
+#img{
+    gap: 2px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    margin-right: 200px;
+
+    }
